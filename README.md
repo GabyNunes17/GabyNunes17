@@ -1,4 +1,5 @@
-### Olá Devs👋
+
+<h2>Olá Devs👋</h2> 
 
 Meu nome é Gabriela e sou uma desenvolvedora em busca constante de aprendizado e evolução. Meu objetivo é contribuir para projetos inovadores que possam me desafiar e me ajudar a crescer como profissional.
 
@@ -13,4 +14,12 @@ Obrigada por visitar meu perfil!
   <img width="420em" src="https://github-readme-stats.vercel.app/api?username=GabyNunes17&theme=merko&hide_border=false&include_all_commits=false&count_private=true"/>
    <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabyNunes17&theme=merko&hide_border=false"/>
     <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabyNunes17&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
+  
+  
+  <h2>Contato:</h2> 
+<div>
+  <a href="https://www.linkedin.com/in/gabriela-nunes-a4914222b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
