@@ -9,6 +9,8 @@ Estou empolgada para compartilhar meu trabalho e contribuir com a comunidade de 
 
 Obrigada por visitar meu perfil!
 
+<h2></h2>
+
 <div align="center">
   <a href="https://github.com/GabyNunes17">
   <img width="420em" src="https://github-readme-stats.vercel.app/api?username=GabyNunes17&theme=merko&hide_border=false&include_all_commits=false&count_private=true"/>
